@@ -1,4 +1,4 @@
-# Azure Inteligência Artificial(IA) - Configuração do modelo e padrão de leitura dos dados
+# Inteligência Artificial (IA) com Azure - Configuração do modelo e leitura dos dados.
 Objetivo é configurar o serviço de Machine Learning para ler a base de dados e apresentar os resultado.
 
 ### Ferramentas utilizadas:
